@@ -1,6 +1,6 @@
 package day1;
 
-public class laptop {
+public class Laptop {
     // company
     // screen size
     // HDD memory/ type

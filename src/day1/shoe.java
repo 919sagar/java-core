@@ -1,6 +1,6 @@
 package day1;
 
-public class shoe {
+public class Shoe {
     // state
      // Size
     // color

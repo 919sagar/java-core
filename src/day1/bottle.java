@@ -1,6 +1,6 @@
 package day1;
 
-public class bottle {
+public class Bottle {
     // color
     // size
     // brand
